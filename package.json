@@ -1,0 +1,19 @@
+{
+  "name": "js-py-fitz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Automatizacion de datos con Fitz.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fitz": "^0.0.1",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}
